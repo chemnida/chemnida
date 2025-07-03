@@ -26,3 +26,10 @@ Here are some ideas to get you started:
 ## 📫 연락
 
 - ✉️ Email: cchaemin9073@gmail.com
+
+## 📊 기록
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chemnida&show_icons=true&theme=default" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chemnida&layout=compact&langs_count=6" height="180" />
+</div>
