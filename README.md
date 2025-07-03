@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🌈 취미
 
 - 😄 닉네임: `chemnida` 왜냐! 별명이  `chemni`
-- 🧸 좋아하는 것: 귀여운 UI, LEGO, 보드게임
+- 🧸 좋아하는 것: 귀여운거, 레고, 보드게임, 메가커피 딸기바나나주스 혹은 딸기라떼
 - ✨ 요즘 빠진 것: 땡땡이... 빈티지...
 
 ---
