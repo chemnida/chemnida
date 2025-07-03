@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🌈 취미
+
+- 😄 닉네임: `chemnida` 왜냐! 별명이 'chemni'
+- 🧸 좋아하는 것: 귀여운 UI, LEGO, 보드게임
+- ✨ 요즘 빠진 것: 땡땡이... 빈티지...
+
+---
+
+## 📫 연락
+
+- ✉️ Email: cchaemin9073@gmail.com
