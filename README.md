@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 📫 연락
 
-- ✉️ Email: cchaemin9073@gmail.com
+- ✉️ Email: chaemin9073@gmail.com
 
 ## 📊 기록
 
