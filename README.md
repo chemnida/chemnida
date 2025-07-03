@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌈 취미
+## 🌈 나는 말이조
 
 - 😄 닉네임: `chemnida` 왜냐! 별명이  `chemni`
 - 🧸 좋아하는 것: 귀여운거, 레고, 보드게임, 메가커피 딸기바나나주스 혹은 딸기라떼
